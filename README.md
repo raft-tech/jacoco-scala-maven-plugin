@@ -22,7 +22,7 @@ Most of this work and all the logic for Scala method filtering appears in Report
 
 1.  They appear in a Scala source file (.scala).
 2.  They are named with a known Scala synthetic method name.
-3.  The first and last lines of the method are both less than or equal to the first and last lines of all class content.
+3.  The first and last lines of the method are both less than or equal to the first line of class content.
 
 ## Usage
 
